@@ -1,6 +1,5 @@
-## 👋 Hi, I’m Aurora 
+## 👋 Hi, I’m Aurora 👸🏽
 🧬 You can also call me **Aralebe**—this is my aboriginal name in Taiwan.  
-👸🏽 **Pronouns:** She/Her <br>
 📚 **CS Student** @ Tunghai University<br>
 📧 **Gmail**: [aralebeForWork@gmail.com](mailto:aralebeForWork@gmail.com)
 
